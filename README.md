@@ -1,11 +1,11 @@
 # asdf-aws-vault
-![GitHub Actions Status](https://github.com/karancode/asdf-aws-vault/workflows/Main%20workflow/badge.svg?branch=main)  
-[aws-vault](https://github.com/99designs/aws-vault) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+![GitHub Actions Status](https://github.com/mhmd3bdo/asdf-aws-vault/workflows/Main%20workflow/badge.svg?branch=main)  
+[aws-vault](https://github.com/ByteNess/aws-vault) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
 ```
-asdf plugin-add aws-vault https://github.com/karancode/asdf-aws-vault.git
+asdf plugin-add aws-vault https://github.com/mhmd3bdo/asdf-aws-vault.git
 asdf install aws-vault <version>
 ```
 
